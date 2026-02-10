@@ -17,7 +17,6 @@ public class NullPointerDemo {
     }
 
     public static void main(String[] args) {
-        // generateException(); // Uncomment to see exception
         handleException();
     }
 }
